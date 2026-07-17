@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Worklog Tuần 10"
 date: "2026-06-19"
 weight: 10
@@ -6,21 +6,22 @@ chapter: false
 pre: " <b> 1.10. </b> "
 ---
 
+### Thời gian thực hiện: 22/06/2026 - 28/06/2026
+
 ### Mục tiêu tuần 10:
-* Tìm hiểu dịch vụ cơ sở dữ liệu quan hệ Amazon RDS và so sánh với cơ sở dữ liệu tự quản trị.
-* Thực hành tạo cơ sở dữ liệu RDS MySQL, cấu hình bảo mật Security Group và kiểm tra kết nối.
-* Bắt đầu triển khai dự án nhóm.
+* Tiếp tục hoàn thiện project nhóm.
+* Tìm hiểu thêm các công nghệ có thể sử dụng cho dự án.
+* Hoàn thành các yêu cầu công ty giao và tham gia các event liên quan.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 6 | - **Amazon RDS** <br> - Tìm hiểu Relational Database Service <br> - Ghi chú lợi ích managed database <br> - Phân biệt RDS và database tự cài trên EC2 <br> - Tìm hiểu các engine: MySQL, PostgreSQL, MariaDB | 19/06/2026 | 19/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - **RDS MySQL** <br> - Tìm hiểu endpoint, port, username, password <br> - Ghi chú cách kết nối RDS từ bên ngoài <br> - Tìm hiểu Security Group cho database <br> - Phân tích public/private access cho RDS | 22/06/2026 | 22/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - **RDS Backup & Security** <br> - Tìm hiểu automated backup <br> - Tìm hiểu snapshot database <br> - Ghi chú Multi-AZ ở mức cơ bản <br> - Tổng hợp checklist bảo mật database | 23/06/2026 | 23/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Project nhóm – tự điền nội dung dự án nhóm | 24/06/2026 | 24/06/2026 | |
+| 2 | - **Hoàn thiện project nhóm** <br> - Tiếp tục triển khai các hạng mục còn dang dở của dự án <br> - Cập nhật tiến độ làm việc với các thành viên | 22/06/2026 | 22/06/2026 | Kế hoạch nhóm |
+| 3 | - **Tìm hiểu công nghệ bổ trợ** <br> - Nghiên cứu thêm các công nghệ có thể áp dụng cho project nhóm <br> - Đánh giá mức độ phù hợp với hướng triển khai hiện tại | 23/06/2026 | 23/06/2026 | Tài liệu tham khảo |
+| 5 | - **Hoàn thành yêu cầu được giao** <br> - Thực hiện các đầu việc mà công ty đã giao trong tuần <br> - Rà soát kết quả trước khi cập nhật báo cáo tiến độ | 25/06/2026 | 25/06/2026 | Công việc được phân công |
+| 6 | - **Tham gia event công ty** <br> - Tham dự event do công ty tổ chức <br> - Ghi nhận thêm các chia sẻ hữu ích phục vụ cho công việc thực tập | 26/06/2026 | 26/06/2026 | Event nội bộ |
 
 ### Kết quả đạt được tuần 10:
-* Hiểu rõ ưu thế vận hành của RDS (tự động backup, vá lỗi bảo mật) so với cài database trên EC2.
-* Khởi tạo thành công database RDS MySQL, liên kết Security Group chỉ cho phép kết nối đến từ các subnet được chỉ định.
-* Thiết lập cơ chế sao lưu tự động và tạo snapshots cho cơ sở dữ liệu.
-* Làm việc nhóm để phân công các task đầu tiên cho dự án nhóm.
+* Project nhóm được tiếp tục hoàn thiện theo đúng định hướng và kế hoạch đặt ra.
+* Xác định thêm được một số công nghệ có thể hỗ trợ cho hướng phát triển của dự án.
+* Hoàn thành các yêu cầu chính trong tuần và duy trì kết nối với các hoạt động của công ty.

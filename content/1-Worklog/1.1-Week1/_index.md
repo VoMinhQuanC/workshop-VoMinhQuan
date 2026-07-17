@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Week 1 Worklog"
 date: "2026-04-17"
 weight: 1
@@ -6,21 +6,22 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
+### Execution Time: 04/20/2026 - 04/26/2026
+
 ### Week 1 Objectives:
-* Familiarize with Cloud Computing concepts and distinguish it from traditional On-premise infrastructure.
-* Learn about AWS global infrastructure and AWS Management Console.
-* Set up basic account configurations and understand account security.
+* Get familiar with the internship environment and attend the company kickoff session.
+* Complete the initial preparation steps for the internship, especially AWS account creation.
+* Practice sample labs to get used to the study and working process at the internship company.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 6 | - **AWS Cloud Foundation** <br> - Learn overview of Cloud Computing <br> - Differentiate between On-premise and Cloud <br> - Learn about IaaS, PaaS, SaaS models <br> - Note down the role of AWS in Cloud Computing | 04/17/2026 | 04/17/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - **AWS Global Infrastructure** <br> - Learn about Region, Availability Zone, Edge Location <br> - Differentiate between Region and Availability Zone <br> - Note down how to select a suitable Region <br> - Learn about High Availability concept | 04/20/2026 | 04/20/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - **AWS Management Console** <br> - Get familiar with AWS Management Console interface <br> - Search for key services on AWS <br> - Check account management interface <br> - Note down service groups: Compute, Storage, Database, Networking | 04/21/2026 | 04/21/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - **AWS Account Security** <br> - Check AWS account information <br> - Learn about Root User and admin account <br> - Note down initial security steps <br> - Prepare evidence content for report | 04/22/2026 | 04/22/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - **Internship kickoff** <br> - Attend the internship program introduction session <br> - Record the regulations, roadmap, and collaboration method for the internship period | 04/20/2026 | 04/20/2026 | Company onboarding materials |
+| 3 | - **Environment setup** <br> - Create an AWS account for practice activities <br> - Verify login and required account information for learning activities | 04/21/2026 | 04/21/2026 | AWS Console |
+| 5 | - **Getting used to the internship process** <br> - Learn the basic tasks required at the beginning of the internship <br> - Note down the requirements that must be followed during the program | 04/23/2026 | 04/23/2026 | Company guidance |
+| 6 | - **Practicing sample labs** <br> - Complete the sample labs provided by the company <br> - Get familiar with the way to study, submit results, and keep evidence | 04/24/2026 | 04/24/2026 | Company sample lab set |
 
 ### Week 1 Achievements:
-* Mastered cloud service models (IaaS, PaaS, SaaS) and key differences from traditional on-premise setups.
-* Understood how AWS global infrastructure supports High Availability applications.
-* Acquired capability to use AWS Console to locate services and verify user configurations.
-* Documented initial account security best practices for Root User.
+* Understood how the internship program is organized and the initial working expectations.
+* Completed the AWS account setup needed for learning and practice activities.
+* Became familiar with the process of completing labs, taking notes, and tracking results throughout the internship.

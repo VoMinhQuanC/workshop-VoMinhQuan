@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Week 5 Worklog"
 date: "2026-05-15"
 weight: 5
@@ -6,21 +6,22 @@ chapter: false
 pre: " <b> 1.5. </b> "
 ---
 
+### Execution Time: 05/17/2026 - 05/23/2026
+
 ### Week 5 Objectives:
-* Learn and configure network security layers: Security Groups and Network ACLs.
-* Understand the mechanics of NAT Gateway and implement it for Private Subnets.
-* Conduct a VPC security review and update architecture documentation.
+* Continue studying modules directly related to the team project.
+* Record the learned content and completed tasks in the personal project.
+* Participate in company events to broaden internship experience.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 6 | - **Security Group** <br> - Learn about Security Group <br> - Differentiate inbound and outbound rules <br> - Note down how to open HTTP, HTTPS, SSH ports <br> - Learn about stateful firewall concept | 05/15/2026 | 05/15/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - **Network ACL** <br> - Learn about Network ACL <br> - Differentiate Network ACL and Security Group <br> - Note down subnet-level inbound/outbound rules <br> - Learn about stateless firewall concept | 05/18/2026 | 05/18/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - **NAT Gateway** <br> - Learn about NAT Gateway <br> - Note down how private subnets access the internet <br> - Differentiate NAT Gateway and Internet Gateway <br> - Update private subnet network diagram | 05/19/2026 | 05/19/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - **VPC Security Review** <br> - Summarize VPC, Subnet, Route Table, IGW, and NAT Gateway <br> - Consolidate Security Group and Network ACL policies <br> - Differentiate public/private network architectures <br> - Prepare networking evidence for report | 05/20/2026 | 05/20/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - **Studying project-related modules** <br> - Focus on the knowledge that can be applied to the team project <br> - Record important content for team discussion | 05/18/2026 | 05/18/2026 | Program materials |
+| 3 | - **Updating the personal project** <br> - Record the content learned during the week <br> - Add the completed tasks to the personal project documentation | 05/19/2026 | 05/19/2026 | Personal notes |
+| 5 | - **Reviewing learning progress** <br> - Compare the learned content with the requirements of the team project <br> - Prepare ideas that may be applied in practice | 05/21/2026 | 05/21/2026 | Team plan |
+| 6 | - **Joining the company event** <br> - Participate in the event organized by the company <br> - Record useful sharing for the internship process | 05/22/2026 | 05/22/2026 | Internal event |
 
 ### Week 5 Achievements:
-* Clearly distinguished between Security Groups (instance-level, stateful) and Network ACLs (subnet-level, stateless).
-* Configured inbound/outbound rules to allow SSH port 22 and HTTP port 80 traffic.
-* Successfully deployed NAT Gateway in Public Subnets to give Private Subnets secure outbound-only internet access.
-* Compiled VPC secure networking architecture documentation for final portfolio.
+* Strengthened professional knowledge supporting the implementation direction of the team project.
+* Completed the weekly learning and progress notes in the personal project.
+* Participated in company events and gained more practical experience.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Worklog Tuần 3"
 date: "2026-05-01"
 weight: 3
@@ -6,21 +6,22 @@ chapter: false
 pre: " <b> 1.3. </b> "
 ---
 
+### Thời gian thực hiện: 04/05/2026 - 10/05/2026
+
 ### Mục tiêu tuần 3:
-* Tìm hiểu công cụ quản lý chi phí AWS Billing và chương trình khuyến mãi AWS Free Tier.
-* Tạo lập kế hoạch ngân sách bằng AWS Budgets.
-* Sử dụng Cost Explorer để theo dõi và đưa ra kế hoạch tối ưu hóa chi phí.
+* Hoàn tất các thủ tục check-in cần thiết tại công ty.
+* Tiếp tục học tập theo lộ trình của chương trình thực tập.
+* Bắt đầu tham gia các hoạt động làm việc nhóm do công ty triển khai.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 6 | - **AWS Billing** <br> - Tìm hiểu Billing Dashboard <br> - Kiểm tra cách AWS tính phí dịch vụ <br> - Tìm hiểu AWS Free Tier <br> - Ghi chú các lỗi dễ gây phát sinh chi phí | 01/05/2026 | 01/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - **AWS Budgets** <br> - Tìm hiểu AWS Budgets <br> - Ghi chú cách tạo budget theo tháng <br> - Tìm hiểu cảnh báo khi vượt ngưỡng chi phí <br> - Chuẩn bị nội dung kiểm soát chi phí | 04/05/2026 | 04/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - **Cost Explorer** <br> - Tìm hiểu Cost Explorer <br> - Kiểm tra chi phí theo service <br> - Ghi chú cách đọc biểu đồ chi phí <br> - Tìm hiểu dự báo chi phí sử dụng AWS | 05/05/2026 | 05/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - **Cost Optimization** <br> - Tổng hợp các cách tối ưu chi phí <br> - Tìm hiểu cleanup resource sau khi thực hành <br> - Ghi chú các service cần tắt/xóa khi không dùng <br> - Viết phần báo cáo ngắn về quản lý chi phí AWS | 06/05/2026 | 06/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - **Đăng ký check-in** <br> - Thực hiện các thủ tục check-in theo yêu cầu của công ty <br> - Kiểm tra lại thông tin tham gia chương trình thực tập | 04/05/2026 | 04/05/2026 | Hướng dẫn từ công ty |
+| 3 | - **Học tập theo chương trình** <br> - Tiếp tục theo dõi các bài học được giao <br> - Ghi chú các nội dung quan trọng phục vụ công việc nhóm | 05/05/2026 | 05/05/2026 | Tài liệu chương trình |
+| 5 | - **Thực hành và trao đổi nhóm** <br> - Thực hiện các bài tập liên quan đến nội dung đang học <br> - Bắt đầu trao đổi với các thành viên theo định hướng của công ty | 07/05/2026 | 07/05/2026 | Bài tập và lab thực hành |
+| 6 | - **Khởi động hoạt động nhóm** <br> - Tham gia các hoạt động nhóm đầu tiên <br> - Xác định cách phối hợp và phân chia công việc sơ bộ | 08/05/2026 | 08/05/2026 | Trao đổi nhóm |
 
 ### Kết quả đạt được tuần 3:
-* Biết cách sử dụng Billing Dashboard để xem hóa đơn và kiểm soát hạn mức Free Tier.
-* Thiết lập thành công Budget hàng tháng kèm cảnh báo tự động qua email khi chi tiêu đạt ngưỡng.
-* Sử dụng thành thạo Cost Explorer để phân loại chi tiêu theo dịch vụ.
-* Nắm vững các bước dọn dẹp tài nguyên (Clean up) sau khi thực hành để tránh phát sinh chi phí ngoài dự kiến.
+* Hoàn tất các bước check-in và chuẩn bị đầy đủ điều kiện tham gia thực tập tại công ty.
+* Duy trì tiến độ học tập theo chương trình và ghi nhận các kiến thức cần thiết cho các giai đoạn sau.
+* Bắt đầu tham gia vào hoạt động nhóm và hình thành cách phối hợp làm việc với các thành viên khác.

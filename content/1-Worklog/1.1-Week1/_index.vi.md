@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Worklog Tuần 1"
 date: "2026-04-17"
 weight: 1
@@ -6,21 +6,22 @@ chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
+### Thời gian thực hiện: 20/04/2026 - 26/04/2026
+
 ### Mục tiêu tuần 1:
-* Làm quen với khái niệm Điện toán đám mây (Cloud Computing) và phân biệt với hạ tầng truyền thống (On-premise).
-* Tìm hiểu kiến trúc hạ tầng toàn cầu (Global Infrastructure) của AWS.
-* Làm quen giao diện quản trị AWS Management Console và các cấu hình bảo mật tài khoản ban đầu.
+* Làm quen với môi trường thực tập và tham gia buổi Kickoff của công ty.
+* Hoàn tất các bước chuẩn bị cần thiết để bắt đầu kỳ thực tập, đặc biệt là tạo tài khoản AWS.
+* Thực hành các bài lab mẫu để làm quen quy trình học tập và làm việc tại đơn vị thực tập.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 6 | - **AWS Cloud Foundation** <br> - Tìm hiểu tổng quan về Cloud Computing <br> - Phân biệt On-premise và Cloud <br> - Tìm hiểu các mô hình IaaS, PaaS, SaaS <br> - Ghi chú vai trò của AWS trong Cloud Computing | 17/04/2026 | 17/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - **AWS Global Infrastructure** <br> - Tìm hiểu Region, Availability Zone, Edge Location <br> - Phân biệt Region và Availability Zone <br> - Ghi chú cách chọn Region phù hợp <br> - Tìm hiểu khái niệm High Availability | 20/04/2026 | 20/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - **AWS Management Console** <br> - Làm quen giao diện AWS Management Console <br> - Tìm kiếm các service chính trên AWS <br> - Kiểm tra giao diện quản lý tài khoản <br> - Ghi chú các nhóm service: Compute, Storage, Database, Networking | 21/04/2026 | 21/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - **AWS Account Security** <br> - Kiểm tra thông tin tài khoản AWS <br> - Tìm hiểu Root User và tài khoản quản trị <br> - Ghi chú các bước bảo mật ban đầu <br> - Chuẩn bị nội dung minh chứng cho báo cáo | 22/04/2026 | 22/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - **Kickoff thực tập** <br> - Tham gia buổi giới thiệu chương trình thực tập <br> - Ghi nhận nội quy, lộ trình và cách phối hợp trong kỳ thực tập | 20/04/2026 | 20/04/2026 | Tài liệu onboarding của công ty |
+| 3 | - **Chuẩn bị môi trường** <br> - Tạo tài khoản AWS phục vụ thực hành <br> - Kiểm tra đăng nhập và các thông tin cần thiết cho quá trình học tập | 21/04/2026 | 21/04/2026 | AWS Console |
+| 5 | - **Làm quen quy trình thực tập** <br> - Tìm hiểu các đầu việc cơ bản khi bắt đầu thực tập <br> - Ghi chú lại các yêu cầu cần tuân thủ trong quá trình tham gia chương trình | 23/04/2026 | 23/04/2026 | Hướng dẫn từ công ty |
+| 6 | - **Thực hành lab mẫu** <br> - Thực hiện các bài lab mẫu do công ty cung cấp <br> - Làm quen cách học, cách nộp kết quả và cách ghi nhận minh chứng | 24/04/2026 | 24/04/2026 | Bộ lab mẫu của công ty |
 
 ### Kết quả đạt được tuần 1:
-* Nắm vững các mô hình dịch vụ đám mây (IaaS, PaaS, SaaS) và phân biệt được với On-premise truyền thống.
-* Hiểu cách tổ chức hạ tầng AWS (Regions, AZs, Edge Locations) phục vụ tính sẵn sàng cao (High Availability).
-* Biết cách sử dụng console để điều phối, tìm kiếm dịch vụ và thiết lập kiểm tra thông tin tài khoản.
-* Xác định được các biện pháp bảo mật ban đầu cho tài khoản quản trị Root User.
+* Đã nắm được cách thức tổ chức chương trình thực tập và các yêu cầu làm việc ban đầu.
+* Hoàn tất khâu chuẩn bị tài khoản AWS để phục vụ cho các nội dung học tập và thực hành.
+* Làm quen được quy trình thực hiện lab, ghi chú và theo dõi kết quả trong suốt kỳ thực tập.

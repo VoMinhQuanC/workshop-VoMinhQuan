@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Week 10 Worklog"
 date: "2026-06-19"
 weight: 10
@@ -6,21 +6,22 @@ chapter: false
 pre: " <b> 1.10. </b> "
 ---
 
+### Execution Time: 06/22/2026 - 06/28/2026
+
 ### Week 10 Objectives:
-* Learn about Relational Database Service (RDS) and managed databases.
-* Provision an RDS MySQL database and set up connection endpoints.
-* Kick off collaborative tasks for the team project.
+* Continue completing the team project.
+* Learn more technologies that may be used for the project.
+* Complete company-assigned requirements and attend related events.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 6 | - **Amazon RDS** <br> - Learn about Relational Database Service <br> - Note down managed database benefits <br> - Differentiate RDS from database hosted on EC2 <br> - Learn about DB engines: MySQL, PostgreSQL, MariaDB | 06/19/2026 | 06/19/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - **RDS MySQL** <br> - Learn about endpoint, port, username, and password parameters <br> - Note down connection methods to RDS <br> - Configure Security Group rules for DB access <br> - Analyze RDS public/private access settings | 06/22/2026 | 06/22/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - **RDS Backup & Security** <br> - Learn about automated backups <br> - Learn about DB snapshots <br> - Note down Multi-AZ high availability concept <br> - Consolidate database security guidelines | 06/23/2026 | 06/23/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Project nhóm – tự điền nội dung dự án nhóm | 06/24/2026 | 06/24/2026 | |
+| 2 | - **Continuing the team project** <br> - Keep implementing the remaining project items <br> - Update work progress with the team members | 06/22/2026 | 06/22/2026 | Team plan |
+| 3 | - **Learning supporting technologies** <br> - Research more technologies that may be applied to the team project <br> - Evaluate their suitability with the current direction | 06/23/2026 | 06/23/2026 | Reference materials |
+| 5 | - **Completing assigned requirements** <br> - Carry out the tasks assigned by the company during the week <br> - Review the results before updating the progress report | 06/25/2026 | 06/25/2026 | Assigned tasks |
+| 6 | - **Joining company events** <br> - Attend the events organized by the company <br> - Record useful sharing that supports the internship work | 06/26/2026 | 06/26/2026 | Internal event |
 
 ### Week 10 Achievements:
-* Gained solid understanding of managed database benefits (backups, patches) over self-hosted EC2 DBs.
-* Successfully launched an RDS MySQL instance and associated Security Groups to allow connection only from verified subnets.
-* Enabled backup features and took manual snapshots of the relational database.
-* Coordinated within the team to allocate initial development tasks for the project.
+* Continued improving the team project according to the planned direction.
+* Identified additional technologies that could support the future development of the project.
+* Completed the key weekly requirements and stayed engaged with company activities.
