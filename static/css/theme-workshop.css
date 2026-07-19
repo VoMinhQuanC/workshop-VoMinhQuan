@@ -226,3 +226,227 @@ div.notices.info p {
   border-top: 30px solid #fd9827;
   background: #fff2db;
 }
+
+.proposal-header {
+  max-width: 1100px;
+  margin: 0 auto 2.5rem;
+  padding: 2.25rem 1.75rem;
+  text-align: center;
+  background: linear-gradient(135deg, #f6f9fc 0%, #eef4fb 100%);
+  border: 1px solid #dbe6f3;
+  border-radius: 24px;
+}
+
+.proposal-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  background: rgba(72, 129, 205, 0.1);
+  color: #2d5e9f;
+  font-weight: 700;
+}
+
+.proposal-header h1 {
+  margin: 0;
+  color: #344f73 !important;
+  font-size: clamp(2.3rem, 5vw, 4.1rem);
+  font-weight: 700;
+  line-height: 1.08;
+  text-transform: uppercase;
+}
+
+.proposal-header .subtitle {
+  margin: 1rem auto 1.5rem;
+  max-width: 760px;
+  color: #526b89;
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
+.proposal-tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.proposal-tags .tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.7rem 1rem;
+  border: 1px solid #d7e4f2;
+  border-radius: 999px;
+  background: #fff;
+  color: #38587e;
+  font-weight: 600;
+}
+
+.proposal-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1.25rem;
+  max-width: 1100px;
+  margin: 0 auto 2.5rem;
+}
+
+.metric-card {
+  padding: 1.5rem 1.25rem;
+  background: #fff;
+  border: 1px solid #e4ebf3;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 12px 30px rgba(40, 62, 91, 0.08);
+}
+
+.metric-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.5rem;
+  height: 3.5rem;
+  margin-bottom: 1rem;
+  border-radius: 18px;
+  font-size: 1.25rem;
+}
+
+.metric-icon.success {
+  background: #eaf8ef;
+  color: #1f8f4e;
+}
+
+.metric-icon.primary {
+  background: #ebf3fd;
+  color: #2a6fc2;
+}
+
+.metric-icon.warning {
+  background: #fff2df;
+  color: #d9822b;
+}
+
+.metric-icon.info {
+  background: #eef0fe;
+  color: #5d67d8;
+}
+
+.metric-value {
+  margin-bottom: 0.35rem;
+  color: #22344b;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.metric-label {
+  color: #61758d;
+  font-size: 0.98rem;
+  line-height: 1.5;
+}
+
+.proposal-content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.proposal-content h2 {
+  margin-top: 3rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid #e4ebf3;
+  color: #2f4d73 !important;
+}
+
+.proposal-content h3 {
+  margin-top: 2rem;
+  color: #456588 !important;
+}
+
+.proposal-content p,
+.proposal-content li {
+  color: #394b61;
+  line-height: 1.8;
+}
+
+.proposal-content table {
+  display: table;
+  width: 100%;
+  margin: 1.25rem 0 1.75rem;
+  border-collapse: collapse;
+  background: #fff;
+  border: 1px solid #dfe7f0;
+}
+
+.proposal-content thead {
+  background: #edf4fb;
+}
+
+.proposal-content th,
+.proposal-content td {
+  padding: 0.95rem 1rem;
+  border: 1px solid #dfe7f0;
+  text-align: left;
+  vertical-align: top;
+}
+
+.proposal-content img {
+  display: block;
+  max-width: 100%;
+  margin: 1.75rem auto;
+  border-radius: 18px;
+}
+
+@media (max-width: 768px) {
+  .proposal-header {
+    padding: 2rem 1.25rem;
+  }
+
+  .proposal-header h1 {
+    font-size: 2.1rem;
+  }
+
+  .proposal-content table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+.workshop-hero {
+  max-width: 1100px;
+  margin: 0 auto 2.5rem;
+  padding: 1.5rem 0 0.75rem;
+  text-align: center;
+}
+
+.workshop-hero h1 {
+  margin: 0;
+  color: #7489a7 !important;
+  font-size: clamp(3rem, 6vw, 5.6rem);
+  font-weight: 600;
+  line-height: 1.05;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.workshop-hero-subtitle {
+  max-width: 980px;
+  margin: 1.2rem auto 0;
+  color: rgba(116, 137, 167, 0.9);
+  font-size: clamp(1.5rem, 3.3vw, 2.7rem);
+  font-weight: 500;
+  line-height: 1.35;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .workshop-hero {
+    padding-top: 0.75rem;
+  }
+
+  .workshop-hero-subtitle {
+    max-width: 92%;
+  }
+}
