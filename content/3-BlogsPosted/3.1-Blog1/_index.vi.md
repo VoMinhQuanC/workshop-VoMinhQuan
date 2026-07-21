@@ -1,4 +1,4 @@
----
+﻿---
 title: "Xây dựng Modern Data Lakehouse (Serverless) trên AWS"
 date: 2026-07-03
 weight: 1
@@ -23,6 +23,12 @@ Kiến trúc Data Lakehouse của chúng ta sẽ được chia thành các phân
 * **Cataloging (AWS Glue Crawler):** Quét qua Raw Zone để tự động trích xuất Schema, tạo lập định nghĩa bảng (Metadata) và lưu vào AWS Glue Data Catalog.
 * **Processing (AWS Glue Job - PySpark):** Chuyển đổi định dạng dữ liệu (ETL) từ dữ liệu thô sang định dạng cột Apache Parquet, đồng thời thực hiện Partitioning (Phân vùng theo Ngày/Tháng/Năm) rồi ghi xuống Processed Zone (S3).
 * **Analytics (Amazon Athena):** Sử dụng câu lệnh SQL tiêu chuẩn để truy vấn trực tiếp trên Processed Zone thông qua Metadata từ Data Catalog mà không cần load dữ liệu vào bất kỳ database nào.
+
+<p align="center">
+  <img src="/images/3-BlogsPosted/Blog1.png" alt="Sơ đồ kiến trúc Modern Data Lakehouse trên AWS" width="85%">
+</p>
+
+<p align="center"><em>Sơ đồ tổng quan Data Lakehouse Serverless với Amazon S3, AWS Glue và Amazon Athena</em></p>
 
 ---
 
@@ -53,3 +59,7 @@ Kiến trúc Modern Data Lakehouse Serverless này mang lại 3 lợi ích lớn
 ### Nguồn tham khảo
 * [AWS Lakehouse Architecture Guide](https://vntechies.dev/.../aws-lakehouse-architecture-guide)
 * [Modern Data Lake House on AWS](https://www.linkedin.com/.../modern-data-lake-house.../)
+
+### Link bài post Facebook
+* [Xây dựng Modern Data Lakehouse (Serverless) trên AWS: Bí kíp xử lý Big Data và tối ưu 80% chi phí truy vấn với S3, Glue và Athena](https://www.facebook.com/groups/awsstudygroupfcj/posts/2203105570454403)
+

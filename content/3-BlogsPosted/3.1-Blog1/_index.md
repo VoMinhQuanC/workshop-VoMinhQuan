@@ -1,4 +1,4 @@
----
+﻿---
 title: "Building a Modern Data Lakehouse (Serverless) on AWS"
 date: 2026-07-03
 weight: 1
@@ -23,6 +23,12 @@ The Data Lakehouse architecture is organized into multiple data zones on Amazon 
 * **Cataloging (AWS Glue Crawler):** Automatically scans the Raw Zone, detects schemas, creates metadata definitions, and stores them in the AWS Glue Data Catalog.
 * **Processing (AWS Glue Job – PySpark):** Performs ETL operations by converting raw data into the Apache Parquet columnar format, partitions the data by year, month, and day, and stores the processed data in the Processed Zone.
 * **Analytics (Amazon Athena):** Executes standard SQL queries directly on the processed data stored in Amazon S3 using metadata from the Glue Data Catalog, without requiring a traditional database.
+
+<p align="center">
+  <img src="/images/3-BlogsPosted/Blog1.png" alt="Modern Data Lakehouse architecture on AWS" width="85%">
+</p>
+
+<p align="center"><em>Serverless Data Lakehouse architecture using Amazon S3, AWS Glue, and Amazon Athena</em></p>
 
 ---
 
@@ -81,3 +87,8 @@ This architecture also serves as a solid foundation for integrating Business Int
 
 * Modern Data Lake House on AWS  
   https://www.linkedin.com/.../modern-data-lake-house.../
+
+### Facebook Post Link
+* [Building a Modern Data Lakehouse (Serverless) on AWS: Processing Big Data and Optimizing Query Costs by 80% with S3, Glue, and Athena](https://www.facebook.com/groups/awsstudygroupfcj/posts/2203105570454403)
+
+

@@ -9,9 +9,9 @@ pre: " <b> 1.10. </b> "
 ### Execution Time: 06/22/2026 - 06/28/2026
 
 ### Week 10 Objectives:
-* Continue completing the team project.
-* Learn more technologies that may be used for the project.
-* Complete company-assigned requirements and attend related events.
+* Continue improving the team project based on the agreed direction.
+* Learn more technologies that may be useful for the project.
+* Complete the company-assigned requirements and attend related events.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
@@ -23,5 +23,5 @@ pre: " <b> 1.10. </b> "
 
 ### Week 10 Achievements:
 * Continued improving the team project according to the planned direction.
-* Identified additional technologies that could support the future development of the project.
+* Identified additional technologies that could support the next development steps of the project.
 * Completed the key weekly requirements and stayed engaged with company activities.

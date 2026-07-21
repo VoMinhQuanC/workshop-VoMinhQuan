@@ -10,7 +10,7 @@ pre: " <b> 1.11. </b> "
 
 ### Week 11 Objectives:
 * Finalize the team project before the wrap-up stage.
-* Complete the procedures required to end the internship.
+* Complete the required procedures to close the internship.
 * Finish the personal project assigned by the company.
 
 ### Tasks to be carried out this week:

@@ -61,7 +61,7 @@ The Video Localization Platform automates this workflow through a cloud-native a
 
 ### High-Level Architecture Diagram
 
-![System Architecture Overview](/images/5-Workshop/5.1-Workshop-overview/Kien-truc-he-thong-tong-quan.png)
+![System Architecture Overview](/images/5-Workshop/5.1-Workshop-overview/aws_demo.jpg)
 
 ### Component Overview
 

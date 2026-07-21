@@ -1,4 +1,4 @@
----
+﻿---
 title: "Event 2"
 date: 2026-06-27
 weight: 2
@@ -185,6 +185,11 @@ Là sinh viên ngành Software Engineering và có định hướng theo Backend
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-*Thêm các hình ảnh của bạn tại đây.*
+<p align="center">
+  <img src="/images/4-EventParticipated/event2_27-06-2026.jpg" alt="Hình ảnh tham gia sự kiện Cloud, AI Agent và Amazon Q trên AWS" width="80%">
+</p>
+
+<p align="center"><em>Hình ảnh tại sự kiện Cloud, AI Agent và Amazon Q trên AWS ngày 27/06/2026</em></p>
 
 > Tổng thể, sự kiện đã mang lại cho em nhiều kiến thức bổ ích về Cloud, AI Agent, Amazon Q và bảo mật hệ thống trên AWS. Sự kiện cũng giúp em có thêm định hướng rõ ràng hơn trong việc học tập và phát triển kỹ năng để theo đuổi lĩnh vực Backend, Cloud và AI trong tương lai.
+

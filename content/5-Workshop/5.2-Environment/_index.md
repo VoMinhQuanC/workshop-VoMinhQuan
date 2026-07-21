@@ -1,4 +1,4 @@
----
+﻿---
 title: "Development Environment Setup"
 date: 2026-07-17
 weight: 2
@@ -39,7 +39,7 @@ Before setting up, understand how the components interact in local development:
 
 ### Docker Architecture Diagram
 
-![Docker Architecture](/images/5-Workshop/5.2-Environment/Docker_Architecture.png)
+![Docker Architecture](/images/5-Workshop/5.2-Environment/Docker_Architecture_V2.png)
 
 ### Local Development Architecture Detail
 
@@ -567,3 +567,4 @@ Before proceeding, verify all components are running:
 | Redis | localhost:6379 | `PONG` on ping |
 | MySQL | localhost:3306 | Connection successful |
 | Celery Worker | Terminal output | "ready" message |
+

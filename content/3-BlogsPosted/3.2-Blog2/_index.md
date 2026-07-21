@@ -1,4 +1,4 @@
----
+﻿---
 title: "Automating Security Scans on Amazon EKS"
 date: 2026-07-06
 weight: 2
@@ -40,6 +40,12 @@ The workflow consists of the following steps:
 * Kubescape scans the Amazon EKS cluster using security frameworks such as CIS Benchmark, NSA, and MITRE.
 * Scan reports are stored in Amazon S3.
 * DevOps or Security teams review the results and remediate identified vulnerabilities.
+
+<p align="center">
+  <img src="/images/3-BlogsPosted/Blog2.png" alt="Automated security scanning architecture for Amazon EKS" width="85%">
+</p>
+
+<p align="center"><em>CI/CD-based security scanning architecture for Amazon EKS using Kubescape, AWS CodeBuild, and AWS CodePipeline</em></p>
 
 ---
 
@@ -108,4 +114,7 @@ The combination of **Kubescape**, **AWS CodeBuild**, and **AWS CodePipeline** pr
 * AWS CodePipeline Documentation – https://docs.aws.amazon.com/codepipeline/
 * AWS CodeBuild Documentation – https://docs.aws.amazon.com/codebuild/
 * Amazon EKS Documentation – https://docs.aws.amazon.com/eks/
-```
+
+### Facebook Post Link
+* [Automating Security Scans on Amazon EKS with Kubescape, AWS CodeBuild, and AWS CodePipeline](https://www.facebook.com/groups/awsstudygroupfcj/posts/2205463036885323)
+

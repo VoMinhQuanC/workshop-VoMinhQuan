@@ -1,4 +1,4 @@
----
+﻿---
 title: "Event 1"
 date: 2026-05-23
 weight: 1
@@ -151,6 +151,11 @@ As a Software Engineering student with an interest in Backend Development and Cl
 
 #### Some event photos
 
-*Add your event photos here.*
+<p align="center">
+  <img src="/images/4-EventParticipated/event1_23-05-2026.jpg" alt="Photo from AWS Vietnam Community Day 2026" width="80%">
+</p>
+
+<p align="center"><em>Photo from AWS Vietnam Community Day 2026 on May 23, 2026</em></p>
 
 > Overall, the event provided useful technical knowledge, practical experience, and career inspiration for my future development in software engineering.
+

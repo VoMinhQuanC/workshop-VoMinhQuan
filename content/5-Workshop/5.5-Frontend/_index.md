@@ -1,4 +1,4 @@
----
+﻿---
 title: "Frontend Development"
 date: 2026-07-17
 weight: 5
@@ -235,7 +235,7 @@ export const useAuthStore = create<AuthStore>()(
 
 ### Zustand State Flow
 
-![Zustand State Flow](/images/5-Workshop/5.5-Frontend/Luong_state_Zustand.png)
+![Zustand State Flow](/images/5-Workshop/5.5-Frontend/Luong_state_Zustand_v2.png)
 
 ---
 
@@ -966,3 +966,4 @@ npm run type-check
 # Build for production
 npm run build
 ```
+

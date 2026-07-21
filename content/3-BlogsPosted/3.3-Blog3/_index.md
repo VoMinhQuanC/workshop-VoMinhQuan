@@ -1,4 +1,4 @@
----
+﻿---
 title: "Modernizing applications with Strands Agents and Amazon Bedrock AgentCore"
 date: 2026-07-10
 weight: 3
@@ -45,6 +45,12 @@ The workflow can be summarized as follows:
 In more detail, the system starts by analyzing the repository to identify the programming language, dependencies, and upgrade needs such as runtime version changes or SDK migration. If a suitable transformation already exists, the system reuses it. If not, the creation agent automatically generates a new transformation from natural-language requirements and adds it to the registry for future reuse.
 
 After the transformation is identified or created, the execution agent runs the conversion at scale using AWS Batch jobs. Each job executes the AWS Transform Custom CLI, enabling parallel processing across many repositories rather than sequentially handling one application at a time.
+
+<p align="center">
+  <img src="/images/3-BlogsPosted/Blog3.png" alt="Application modernization architecture with Strands Agents and Amazon Bedrock AgentCore" width="85%">
+</p>
+
+<p align="center"><em>Agentic AI architecture for repository analysis, transformation creation, and large-scale application modernization</em></p>
 
 ## 3. Main services and tools
 
@@ -134,3 +140,7 @@ This is a practical example of how AWS is applying Generative AI to DevOps and A
 ### Reference
 
 - [AWS Blog – Use generative AI agents for application modernization at scale with Strands, Amazon Transform Custom, and Amazon Bedrock AgentCore](https://aws.amazon.com/vi/blogs/devops/use-generative-ai-agents-for-application-modernization-at-scale-with-strands-amazon-transform-custom-and-amazon-bedrock-agentcore/)
+
+### Facebook Post Link
+- [Automating application modernization with Strands Agents, AWS Transform Custom, and Amazon Bedrock AgentCore](https://www.facebook.com/groups/awsstudygroupfcj/posts/2210139623084331)
+

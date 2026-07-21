@@ -35,7 +35,7 @@ Sau khi hoàn thành module này, bạn sẽ:
 
 ### Sơ đồ Kiến trúc Tổng quan
 
-![Kiến trúc hệ thống tổng quan](/images/5-Workshop/5.1-Workshop-overview/Kien-truc-he-thong-tong-quan.png)
+![Kiến trúc hệ thống tổng quan](/images/5-Workshop/5.1-Workshop-overview/aws_demo.jpg)
 
 ### Tổng quan các thành phần
 
@@ -78,7 +78,7 @@ Video Upload → Format Validation → OCR/STT Detection → Subtitle Extraction
 3. Nếu định dạng không tương thích (HEVC, ProRes), tự động transcode sang H.264/AAC
 4. Phát hiện nên dùng OCR (phụ đề nhúng) hay STT (chỉ audio)
 5. Trích xuất phụ đề sử dụng phương pháp được chọn
-6. Dịch phụ đề sử dụng Gemini API
+6. Dịch phụ đề sử dụng Gemini API (AWS Translate)
 7. Upload SRT đã dịch lên S3
 8. Gửi thông báo email qua SES
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "AI/ML Pipeline"
 date: 2026-07-17
 weight: 4
@@ -34,7 +34,7 @@ Sau khi hoàn thành module này, bạn sẽ:
 
 ## Kiến trúc Pipeline
 
-![Pipeline AI-ML](/images/5-Workshop/5.4-AI-Pipeline/Pipeline_AI-ML.png)
+![Pipeline AI-ML](/images/5-Workshop/5.4-AI-Pipeline/Pipeline%20AI%20-%20ML%20-%20v2.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -176,7 +176,7 @@ def extract_subtitles_from_video(
 
 ### OCR Process Flow
 
-![OCR](/images/5-Workshop/5.4-AI-Pipeline/OCR.png)
+![OCR](/images/5-Workshop/5.4-AI-Pipeline/OCR-v2.png)
 
 ---
 
@@ -391,3 +391,4 @@ Trong module này, bạn đã học:
 - **Error Handling**: Exponential backoff retry mechanism
 
 ---
+

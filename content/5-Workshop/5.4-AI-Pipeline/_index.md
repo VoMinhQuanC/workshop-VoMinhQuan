@@ -1,4 +1,4 @@
----
+﻿---
 title: "AI/ML Pipeline"
 date: 2026-07-17
 weight: 4
@@ -36,7 +36,7 @@ By the end of this module, you will:
 
 The AI/ML Pipeline is the core processing engine:
 
-![Pipeline AI-ML](/images/5-Workshop/5.4-AI-Pipeline/Pipeline_AI-ML.png)
+![Pipeline AI-ML](/images/5-Workshop/5.4-AI-Pipeline/Pipeline%20AI%20-%20ML%20-%20v2.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -396,7 +396,7 @@ def subtitles_to_srt(subtitles: list) -> str:
 
 ### OCR Process Flow
 
-![OCR](/images/5-Workshop/5.4-AI-Pipeline/OCR.png)
+![OCR](/images/5-Workshop/5.4-AI-Pipeline/OCR-v2.png)
 
 ---
 
@@ -880,3 +880,4 @@ srt = extract_subtitles_from_video('test_video.mp4')
 print(srt[:500])
 "
 ```
+

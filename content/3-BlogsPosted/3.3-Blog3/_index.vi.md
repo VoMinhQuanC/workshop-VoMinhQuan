@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hiện đại hóa ứng dụng với Strands Agents và Amazon Bedrock AgentCore"
 date: 2026-07-10
 weight: 3
@@ -45,6 +45,12 @@ Luồng hoạt động của giải pháp có thể tóm gọn như sau:
 Chi tiết hơn, hệ thống bắt đầu bằng việc phân tích repository để xác định ngôn ngữ lập trình, dependency và nhu cầu nâng cấp như runtime version hoặc migration SDK. Nếu đã có transformation phù hợp, hệ thống sẽ sử dụng lại transformation đó. Nếu chưa có, creation agent sẽ tự động tạo transformation mới từ yêu cầu bằng ngôn ngữ tự nhiên và đưa vào registry để tái sử dụng cho các lần sau.
 
 Sau khi transformation được xác định hoặc tạo mới, execution agent sẽ chạy quá trình chuyển đổi ở quy mô lớn bằng AWS Batch jobs. Mỗi job thực thi AWS Transform Custom CLI, giúp xử lý song song nhiều repository thay vì chạy tuần tự từng ứng dụng.
+
+<p align="center">
+  <img src="/images/3-BlogsPosted/Blog3.png" alt="Kiến trúc hiện đại hóa ứng dụng với Strands Agents và Amazon Bedrock AgentCore" width="85%">
+</p>
+
+<p align="center"><em>Kiến trúc agentic AI hỗ trợ phân tích repository, tạo transformation và tự động hóa application modernization ở quy mô lớn</em></p>
 
 ## 3. Các dịch vụ và công cụ chính
 
@@ -134,3 +140,7 @@ Sự kết hợp giữa Strands Agents, AWS Transform Custom và Amazon Bedrock 
 ### Nguồn tham khảo
 
 - [AWS Blog – Use generative AI agents for application modernization at scale with Strands, Amazon Transform Custom, and Amazon Bedrock AgentCore](https://aws.amazon.com/vi/blogs/devops/use-generative-ai-agents-for-application-modernization-at-scale-with-strands-amazon-transform-custom-and-amazon-bedrock-agentcore/)
+
+### Link bài post Facebook
+- [Tự động hóa hiện đại hóa ứng dụng với Strands Agents, AWS Transform Custom và Amazon Bedrock AgentCore](https://www.facebook.com/groups/awsstudygroupfcj/posts/2210139623084331)
+

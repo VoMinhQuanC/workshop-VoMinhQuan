@@ -33,7 +33,7 @@ Sau khi hoàn thành module này, bạn sẽ:
 
 ## Kiến trúc Production
 
-![AWS Architecture](/images/5-Workshop/5.6-Deployment/AWS.png)
+![AWS Architecture](/images/5-Workshop/5.6-Deployment/deployment.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

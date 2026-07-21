@@ -1,4 +1,4 @@
----
+﻿---
 title: "Event 2"
 date: 2026-06-27
 weight: 2
@@ -185,6 +185,12 @@ As a Software Engineering student with an orientation toward Backend Development
 
 #### Some Photos from the Event
 
-*Add your event photos here.*
+<p align="center">
+  <img src="/images/4-EventParticipated/event2_27-06-2026.jpg" alt="Photo from the Cloud, AI Agent, and Amazon Q on AWS event" width="80%">
+</p>
+
+<p align="center"><em>Photo from the Cloud, AI Agent, and Amazon Q on AWS event on June 27, 2026</em></p>
 
 > Overall, the event brought me a lot of useful knowledge about Cloud, AI Agents, Amazon Q, and system security on AWS. It also gave me a clearer direction for learning and developing the skills needed to pursue Backend, Cloud, and AI in the future.
+
+

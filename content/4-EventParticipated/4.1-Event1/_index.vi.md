@@ -1,4 +1,4 @@
----
+﻿---
 title: "Event 1"
 date: 2026-05-23
 weight: 1
@@ -151,6 +151,11 @@ Là sinh viên ngành Software Engineering và có định hướng theo Backend
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-*Thêm các hình ảnh của bạn tại đây.*
+<p align="center">
+  <img src="/images/4-EventParticipated/event1_23-05-2026.jpg" alt="Hình ảnh tham gia AWS Vietnam Community Day 2026" width="80%">
+</p>
+
+<p align="center"><em>Hình ảnh tại sự kiện AWS Vietnam Community Day 2026 ngày 23/05/2026</em></p>
 
 > Tổng thể, sự kiện đã mang lại cho em nhiều kiến thức kỹ thuật bổ ích, kinh nghiệm thực tế và định hướng rõ ràng hơn cho quá trình phát triển nghề nghiệp trong tương lai.
+

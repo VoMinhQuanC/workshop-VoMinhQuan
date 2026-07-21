@@ -1,4 +1,4 @@
----
+﻿---
 title: "Frontend Development"
 date: 2026-07-17
 weight: 5
@@ -109,7 +109,7 @@ export const useVideoStore = create<VideoStore>()(
 
 ### Zustand State Flow
 
-![Zustand State Flow](/images/5-Workshop/5.5-Frontend/Luong_state_Zustand.png)
+![Zustand State Flow](/images/5-Workshop/5.5-Frontend/Luong_state_Zustand_v2.png)
 
 ---
 
@@ -255,3 +255,4 @@ Trong module này, bạn đã học:
 - **Subtitle Editor**: In-browser editing với timing adjustment
 
 ---
+

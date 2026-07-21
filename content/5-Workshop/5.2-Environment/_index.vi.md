@@ -1,4 +1,4 @@
----
+﻿---
 title: "Development Environment Setup"
 date: 2026-07-17
 weight: 2
@@ -39,7 +39,7 @@ Trước khi thiết lập, hiểu cách các components tương tác trong môi
 
 ### Sơ đồ Kiến trúc Docker
 
-![Kiến trúc Docker](/images/5-Workshop/5.2-Environment/Docker_Architecture.png)
+![Kiến trúc Docker](/images/5-Workshop/5.2-Environment/Docker_Architecture_V2.png)
 
 ### Chi tiết Kiến trúc Local Development
 
@@ -451,3 +451,4 @@ Trong module này, bạn đã:
 | Redis | localhost:6379 | `PONG` on ping |
 | MySQL | localhost:3306 | Connection successful |
 | Celery Worker | Terminal output | "ready" message |
+

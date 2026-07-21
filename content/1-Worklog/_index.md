@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-The internship worklog during the 12-week period (from April 17, 2026 to July 30, 2026) is recorded in detail for each week below:
+The 12-week internship worklog is recorded in detail week by week below:
 
 **Week 1:** [Getting familiar with the internship environment, kickoff, and AWS account setup](1.1-week1/)
 
@@ -18,11 +18,11 @@ The internship worklog during the 12-week period (from April 17, 2026 to July 30
 
 **Week 5:** [Studying project-related modules, updating the personal project, and joining events](1.5-week5/)
 
-**Week 6:** [Exploring AI tools, practicing Security and IAM, and updating weekly workflow](1.6-week6/)
+**Week 6:** [Exploring AI tools, practicing Security/IAM, and updating the weekly worklog](1.6-week6/)
 
 **Week 7:** [Joining events, completing workflow tasks, and gaining practical experience](1.7-week7/)
 
-**Week 8:** [Learning more services for the team project and applying them in practice](1.8-week8/)
+**Week 8:** [Learning more AWS services for the team project and applying them in practice](1.8-week8/)
 
 **Week 9:** [Joining talkshows, working on the personal project, and exploring new technologies](1.9-week9/)
 
@@ -30,4 +30,4 @@ The internship worklog during the 12-week period (from April 17, 2026 to July 30
 
 **Week 11:** [Finalizing the team project, internship closing procedures, and the personal project](1.11-week11/)
 
-**Week 12:** [Project acceptance, handover, and completing the internship report package](1.12-week12/)
+**Week 12:** [Project acceptance, team-project handover, and completing the internship report package](1.12-week12/)

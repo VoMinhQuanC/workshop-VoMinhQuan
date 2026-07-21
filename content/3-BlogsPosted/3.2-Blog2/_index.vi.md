@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tự động hóa Security Scan trên Amazon EKS"
 date: 2026-07-06
 weight: 2
@@ -40,6 +40,12 @@ Luồng hoạt động gồm các bước:
 * Kubescape quét Amazon EKS theo các framework như CIS Benchmark, NSA và MITRE.
 * Kết quả quét được lưu trên Amazon S3.
 * Đội ngũ DevOps hoặc Security phân tích kết quả và xử lý các vấn đề bảo mật.
+
+<p align="center">
+  <img src="/images/3-BlogsPosted/Blog2.png" alt="Sơ đồ tự động hóa Security Scan trên Amazon EKS" width="85%">
+</p>
+
+<p align="center"><em>Kiến trúc CI/CD tự động quét bảo mật cho Amazon EKS với Kubescape, AWS CodeBuild và AWS CodePipeline</em></p>
 
 ---
 
@@ -108,3 +114,7 @@ Sự kết hợp giữa **Kubescape**, **AWS CodeBuild** và **AWS CodePipeline*
 * AWS CodePipeline Documentation: https://docs.aws.amazon.com/codepipeline/
 * AWS CodeBuild Documentation: https://docs.aws.amazon.com/codebuild/
 * Amazon EKS Documentation: https://docs.aws.amazon.com/eks/
+
+### Link bài post Facebook
+* [Tự động hóa Security Scan trên Amazon EKS với Kubescape, AWS CodeBuild và AWS CodePipeline](https://www.facebook.com/groups/awsstudygroupfcj/posts/2205463036885323)
+

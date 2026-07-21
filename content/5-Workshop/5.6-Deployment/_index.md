@@ -35,7 +35,7 @@ By the end of this module, you will:
 
 Production deployment leverages AWS managed services:
 
-![AWS Architecture](/images/5-Workshop/5.6-Deployment/AWS.png)
+![AWS Architecture](/images/5-Workshop/5.6-Deployment/deployment.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
