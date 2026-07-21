@@ -643,6 +643,16 @@ aws ecr delete-repository --repository-name video-localization-api --force
 
 ---
 
+## Team Project Demo
+
+After completing the deployment steps, you can watch the team project demo here:
+
+- [Watch the demo on Google Drive](https://drive.google.com/file/d/1pjXF8gTCsoc7X5n-5nWTakl2H9w0N4Zd/view?usp=drive_link)
+
+This video demonstrates how the system works in practice, from video upload and pipeline processing to the final generated output.
+
+---
+
 ## References
 
 - [AWS ECS Documentation](https://docs.aws.amazon.com/ecs/)

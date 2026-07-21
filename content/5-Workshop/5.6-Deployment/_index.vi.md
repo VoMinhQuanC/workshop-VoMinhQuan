@@ -291,8 +291,17 @@ aws s3 rb s3://srt-input-storage-prod --force
 
 ---
 
-## Tham khảo
+## Demo project nhóm
 
+Sau khi hoàn thành các bước triển khai, bạn có thể xem video demo của project nhóm tại đây:
+
+- [Xem demo trên Google Drive](https://drive.google.com/file/d/1pjXF8gTCsoc7X5n-5nWTakl2H9w0N4Zd/view?usp=drive_link)
+
+Video này minh họa cách hệ thống hoạt động thực tế từ upload video, xử lý pipeline đến tạo ra kết quả đầu ra cuối cùng.
+
+---
+
+## Tham khảo
 - [AWS ECS Documentation](https://docs.aws.amazon.com/ecs/)
 - [AWS Fargate](https://docs.aws.amazon.com/AmazonECS/latest/userguide/what-is-fargate.html)
 - [AWS RDS MySQL](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_MySQL.html)
